@@ -1,0 +1,11 @@
+.EnhancementPreview {
+  margin: 1em;
+  border: 1px solid #ccc; }
+  .EnhancementPreview .enhancement-number {
+    border-bottom: 1px solid #ccc;
+    padding: 0.25em 0.5em;
+    background-color: #eee; }
+  .EnhancementPreview .enhancement-list {
+    padding: 0.25em 0.5em; }
+  .EnhancementPreview .object-type {
+    padding: 0.5em; }
